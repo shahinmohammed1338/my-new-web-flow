@@ -1,0 +1,121 @@
+.container{
+  max-width: 1440px;
+  margin: auto;
+  color: rgb(245, 248, 255);
+}
+.banner-bg{
+  background-image: url('./Assets/Hero-bg.png');
+  width: 1440px;
+  height: 698px;
+  margin-top: 0px;
+
+}
+.cmn-color{
+  color: rgb(78, 71, 255);
+}
+.btn-primary{
+  background-color: rgb(78, 71, 255);
+  color: rgb(255, 255, 255);
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 10px;
+}
+.nav-styles{
+  display: flex;
+  justify-content: space-between;
+  width: 1140px;
+  height: 151px;
+  padding: 50px 0;
+  text-align: center;
+  align-items: center;
+  margin: 0px 150px 0 150px;
+  padding: 0px 0px;
+  
+}
+.nav-logo{
+  font-weight: bold;
+  font-size: 34px;
+  color: rgb(78, 71, 255);
+}
+.nav-btn{
+  width: 132px;
+  height: 48px;
+}
+
+.banner-styles{
+  width: 905px;
+  height: 237px;
+  align-items: center;
+  text-align: center;
+  margin: 158px 267px 152px;
+
+}
+.banner-title{
+  font-weight: bold;
+  font-size: 65px;
+  color: black;
+}
+.banner-btn{
+  width: 174px;
+  height: 48px;
+}
+.action{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 90px 160px 140px;
+  gap: 220px;
+}
+.action-details{
+  margin: 80px 220px 80px 0;
+}
+.action-title{
+  font-weight: bold;
+  font-size: 42px;
+  color: black;
+}
+.action-para{
+  padding-bottom: 35px;
+  color:rgba(37, 36, 50, 0.5);
+}
+.action-btn{
+  width: 229px;
+  height: 48px;
+  margin-bottom: 40px;
+}
+.action-pic{
+  border-radius: 48px;
+  width: 403px;
+  height: 328px;
+}
+.productive{
+  background-color: rgba(78, 71, 255, 0.1);
+  width: 1140px;
+  height: 306px;
+  margin: 70px 160px 137px 140px;
+  align-items: center;
+  text-align: center;
+  border-radius: 15px;
+
+}
+.products-dtls{
+  padding: 50px 80px;
+}
+.productive-title{
+  color: black;
+  font-weight: bold;
+  font-size: 38px;
+  text-align: center;
+}
+.users-sessions-rate{
+  display: flex;
+  justify-content: space-between;
+}
+.users-title{
+  font-weight: bolder;
+  font-size: 120px;
+}
+.user-dtls{
+  color: rgba(0, 0, 0, 0.5);
+}
